@@ -1,0 +1,33 @@
+th,
+td,
+thead,
+tr {
+  border: 1px solid black;
+  background-color: lightgreen;
+  margin: 4em;
+}
+body {
+  background-color: pink;
+}
+
+table {
+  border: 2px solid black;
+  margin: 4em;
+}
+footer {
+  background-color: lightblue;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+}
+
+img {
+  width: auto;
+  height: auto;
+}
