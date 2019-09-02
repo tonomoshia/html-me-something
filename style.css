@@ -5,6 +5,7 @@ tr {
   border: 1px solid black;
   background-color: lightgreen;
   margin: 4em;
+  font-family: 'Quicksand', sans-serif;
 }
 body {
   background-color: rgb(88, 175, 179);
@@ -43,9 +44,10 @@ img.center {
   margin-right: auto;
 }
 p {
-  font-family: 
+  font-family: 'Chilanka', cursive;
 }
 
 figcaption {
   text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
 }
