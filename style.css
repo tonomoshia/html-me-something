@@ -9,6 +9,7 @@ tr {
 }
 body {
   background-color: rgb(88, 175, 179);
+  margin: 5em;
 }
 
 table {
