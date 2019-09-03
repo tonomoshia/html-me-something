@@ -35,8 +35,6 @@ img {
   margin-left: auto;
   margin-right: auto;
   /* height: auto; */
-
-
 }
 img.center {
   width: 75%;
@@ -46,6 +44,7 @@ img.center {
 }
 p {
   font-family: 'Chilanka', cursive;
+  font-size: 1.5em;
 }
 
 figcaption {
