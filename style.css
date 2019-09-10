@@ -49,9 +49,9 @@ figcaption {
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
 }
- img#wordcamp {
-   width: 50%;
- }
+img#wordcamp {
+  width: 50%;
+}
 
 .navbar {
   overflow: hidden;
@@ -85,4 +85,10 @@ header {
 ul {
   list-style: none; /*remove bullets from unordered list */
   font-family: 'Inconsolata', monospace;
+}
+
+@media screen and (max-width: 480px) {
+  .navbar {
+    display: hidden;
+  }
 }
