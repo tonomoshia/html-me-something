@@ -87,7 +87,7 @@ ul {
   font-family: 'Inconsolata', monospace;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 420px) {
   nav {
     display: none;
   }
